@@ -4,7 +4,7 @@ Code and models for an emotion-aware, explainable NLP pipeline using multi-sourc
 
 This notebook contains the complete end-to-end implementation of the dissertation project:
 
-“Emotion-Aware GPT Fine-Tuning and Explainable Deep Learning on Multi-Source Educational Feedback for Early Detection of Student Wellbeing and Engagement Risks.”
+Emotion-Aware GPT Fine-Tuning and Explainable Deep Learning on Multi-Source Educational Feedback for Early Detection of Student Wellbeing and Engagement Risks.
 
 It integrates every stage of the research workflow in a single, reproducible pipeline, including:
 
